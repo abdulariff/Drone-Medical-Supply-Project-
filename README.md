@@ -1,1 +1,1 @@
-# Drone-Medical-Supply-Project-
+Final Project for Physics 1: Mechanics class. The project required the design of a payload and release mechanism for a fixed-wing drone to make precise and accurate deliveries. My approach made use of a Portable Electric Winch System and a Parachute to ensure the safe descent of the payload. The work was mostly done through a MATLAB script to simulate the trajectory of the payload while accounting for the additional forces I implemented.
